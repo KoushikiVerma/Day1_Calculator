@@ -15,7 +15,7 @@ I used functions for each operation, takes input from the user, and continues ru
      python calculator.py
 
 ## Output
-  ----------Simple Calculator App--------       
+----------Simple Calculator App--------       
 1.Add
 2.Subtract
 3.Multiply
